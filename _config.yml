@@ -1,0 +1,28 @@
+name: Delta Screens
+favicon: null
+layout_spectrum: 0.9886304719839245
+typography_spectrum: 0.8505330896005034
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.2359709006268531
+  lightness: 0.6273186376783997
+  saturation: 0.35743087460286915
+  rhythmicContrast: 0.4889950496144593
+purpose: []
